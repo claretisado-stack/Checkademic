@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Checkademic</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_planner">Planner</string>
+    <string name="nav_subjects">Subjects</string>
+    <string name="cd_add_task">Add academic task</string>
+    <string name="cd_study_desk_illustration">Tidy student study desk illustration</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_undo">Undo</string>
+    <string name="notification_channel_name">Academic Deadlines</string>
+    <string name="notification_channel_desc">Reminders for upcoming homework, quizzes, projects, and exams</string>
+</resources>

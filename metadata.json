@@ -1,0 +1,6 @@
+{
+  "name": "Checkademic",
+  "description": "Student-friendly academic productivity app for organizing homework, assignments, projects, quizzes, exams, deadlines, weekly planner, reminders, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
